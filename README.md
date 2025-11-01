@@ -1,4 +1,4 @@
-# Star-Hunter
+# Archery Simulator
 VR Archery App made in Unity - IN DEVELOPMENT
 University of London solo project for Virtual Reality cm3025
 
